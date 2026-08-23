@@ -1,0 +1,25 @@
+# SecureGuard - Git Ignore
+
+# Generated reports
+
+*.json
+*.html
+*.csv
+
+# Log files
+
+*.log
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Local configuration
+
+.env
+
+# Editor files
+
+.vscode/
+.idea/
