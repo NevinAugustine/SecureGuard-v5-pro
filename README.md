@@ -5,9 +5,7 @@ ________________________________________________________________________________
 
 ---
 <img width="1232" height="267" alt="image" src="https://github.com/user-attachments/assets/45ec237b-1850-49ab-84fa-7e7e8852738a" />
-
-⚡Cli Analysis Output & Detection and Risk levels 
-
+# 🖥️ CLI Analysis Output & Detection
 
 
 
