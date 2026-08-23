@@ -27,6 +27,24 @@ SecureGuard Pro is designed for authorized defensive security and endpoint monit
 * 🛡️ **Incident Response** — Identify and contain suspicious activity.
 * 🎓 **Cybersecurity Learning** — Learn about EDR, ransomware detection, and endpoint security.
 
+  
+   ## 🧪 Safe Ransomware Simulator
+
+SecureGuard includes an optional **harmless ransomware simulator** for educational and testing purposes. The simulator automatically creates its own designated test files with ransomware-like indicators so SecureGuard can detect and demonstrate its security capabilities.
+
+The simulator does **not infect, encrypt, or modify real user files**. All generated files are intended only for controlled testing.
+
+### Purpose
+
+- Test ransomware detection
+- Demonstrate threat scoring
+- Test quarantine functionality
+- Validate security alerts
+- Demonstrate SecureGuard in a safe environment
+- Support cybersecurity education and research
+
+> ⚠️ **Educational Use Only:** The simulator is designed for controlled security testing and creates test files specifically for SecureGuard detection. Do not modify it to target real or unauthorized data.
+
 ### Run SecureGuard
 
 ```bash
