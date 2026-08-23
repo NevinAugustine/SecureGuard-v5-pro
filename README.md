@@ -6,13 +6,13 @@ SecureGuard Pro v5.3 is a lightweight, privacy-focused EDR tool for ransomware d
 
 ## 🛡️ Key Features
 
-- 🔍 **Deep Scan** — Recursive file scanning with ransomware pattern detection.
-- 🚨 **Ransomware Detection** — Detects suspicious extensions and file activity.
-- 🔐 **Auto-Quarantine** — Isolates detected suspicious files.
-- ⚙️ **Persistence Detection** — Checks cron jobs, startup files, and shell profiles.
-- 🕵️ **Spyware Detection** — Identifies suspicious processes and surveillance activity.
-- 📊 **Threat Scoring** — Calculates and classifies overall security risk.
-- 📄 **Reporting** — Generates JSON and CSV security reports.
-- 🖥️ **Real-Time Monitoring** — Monitors suspicious system and file activity.
+-  **Deep Scan** — Recursive file scanning with ransomware pattern detection.
+-  **Ransomware Detection** — Detects suspicious extensions and file activity.
+-  **Auto-Quarantine** — Isolates detected suspicious files.
+-  **Persistence Detection** — Checks cron jobs, startup files, and shell profiles.
+-  **Spyware Detection** — Identifies suspicious processes and surveillance activity.
+-  **Threat Scoring** — Calculates and classifies overall security risk.
+-  **Reporting** — Generates JSON and CSV security reports.
+-  **Real-Time Monitoring** — Monitors suspicious system and file activity.
 
 
