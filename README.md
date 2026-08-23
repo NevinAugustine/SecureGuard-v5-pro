@@ -14,5 +14,38 @@ SecureGuard Pro v5.3 is a lightweight, privacy-focused EDR tool for ransomware d
 -  **Threat Scoring** — Calculates and classifies overall security risk.
 -  **Reporting** — Generates JSON and CSV security reports.
 -  **Real-Time Monitoring** — Monitors suspicious system and file activity.
+  
+## 🚀 Usage
+
+SecureGuard Pro is designed for authorized defensive security and endpoint monitoring.
+
+### Where It Can Be Used
+
+* 🖥️ **Linux Endpoints** — Monitor files, processes, and system activity.
+* 🧪 **Security Labs** — Test ransomware and malware detection techniques in isolated environments.
+* 🔬 **Malware Analysis** — Analyze suspicious file and process behavior.
+* 🛡️ **Incident Response** — Identify and contain suspicious activity.
+* 🎓 **Cybersecurity Learning** — Learn about EDR, ransomware detection, and endpoint security.
+
+### Run SecureGuard
+
+```bash
+source venv/bin/activate
+python3 secureguard.py
+```
+
+### Show Help
+
+```bash
+python3 secureguard.py --help
+```
+
+### Deactivate
+
+```bash
+deactivate
+```
+
+> ⚠️ Use SecureGuard only on systems you own or have explicit authorization to monitor.
 
 
