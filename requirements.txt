@@ -1,0 +1,9 @@
+# SecureGuard Pro v5.3 - Python Dependencies
+
+# Process monitoring and system/process management
+
+psutil
+
+# Real-time filesystem monitoring
+
+watchdog
