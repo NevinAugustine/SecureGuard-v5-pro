@@ -36,10 +36,6 @@ python3 secureguard.py
 
 ### Show Help
 
-```bash
-python3 secureguard.py --help
-```
-
 ### Deactivate
 
 ```bash
