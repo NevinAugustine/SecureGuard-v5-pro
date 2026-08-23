@@ -44,7 +44,10 @@ python3 secureguard.py --help
 
 ```bash
 deactivate
-```
+
+⚠️ Disclaimer
+
+SecureGuard Pro is an educational and defensive cybersecurity tool intended for authorized security testing, malware analysis, security research, and endpoint protection.
 
 > ⚠️ Use SecureGuard only on systems you own or have explicit authorization to monitor.
 
