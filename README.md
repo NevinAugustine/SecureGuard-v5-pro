@@ -34,12 +34,12 @@ source venv/bin/activate
 python3 secureguard.py
 ```
 
-### Show Help
-
-### Deactivate
-
-```bash
+Deactivate
 deactivate
+
+
+
+⚠️ Use SecureGuard only on systems you own or have explicit authorization to monitor.
 
 
 
