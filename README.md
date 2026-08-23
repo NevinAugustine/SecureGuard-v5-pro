@@ -36,9 +36,10 @@ python3 secureguard.py
 
 Deactivate
 
-
-
 ⚠️ Use SecureGuard only on systems you own or have explicit authorization to monitor.
+
+
+
 
 
 
@@ -47,7 +48,7 @@ Deactivate
 ⚠️ Disclaimer
 
 
-SecureGuard Pro is an educational and defensive cybersecurity tool intended for authorized security testing, malware analysis, security research, and endpoint protection.
+SecureGuard Pro is an educational and defensive cybersecurity tool intended for authorized security testing,security research, and endpoint protection.
 
 
 
