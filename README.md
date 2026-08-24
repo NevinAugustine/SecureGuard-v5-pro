@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 
 
-🖥️ CLI Analysis Output & Detection | 🚨 Risk Levels
+⚡ CLI Analysis Output & Detection | 🚨 Risk Levels
 
 <img width="496" height="776" alt="Screenshot 2026-08-23 225437" src="https://github.com/user-attachments/assets/854528fa-604e-4cd1-bebc-e24a5d985678" />
 
